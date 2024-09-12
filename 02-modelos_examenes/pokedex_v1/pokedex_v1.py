@@ -104,12 +104,10 @@ class App(customtkinter.CTk):
 
 
     def btn_cargar_pokedex_on_click(self):
-        # "Cargar pokedex"
         pass
         
 
     def btn_mostrar_informe_1_on_click(self):
-        # "mostrar informe"
         pass
 
     
